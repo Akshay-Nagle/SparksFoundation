@@ -3,4 +3,4 @@ This repo contains all tasks completed as part of TheSparksFoundation Data Scien
 
 Task 1: Student scores prediction using Linear Regression For this task, we applied Linear Regression for predicted student's percentage based on the number of study hours.
 
-Video (YouTube) Link:
+Video (YouTube) Link: https://www.youtube.com/watch?v=H5p5UMiy6aI&feature=youtu.be&ab_channel=AkshayNagle
